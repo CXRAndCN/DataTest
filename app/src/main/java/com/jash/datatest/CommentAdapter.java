@@ -22,7 +22,7 @@ public class CommentAdapter extends BaseAdapter{
         ca.list = list;
         ca.layoutId = layoutId;
 
-        ca.variableId = BR.item;
+        ca.variableId = BR.item;//what mean of BR.item
         return ca;
     }
 
